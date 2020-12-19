@@ -47,7 +47,7 @@ class Solution:
         self.findway(arr, i, j-1, k)  # 下
 
 
-k = 30
+k = 25
 rows = 50
 cols = 50
 print(Solution().movingCount(k, rows, cols))
