@@ -48,6 +48,6 @@ class Solution:
 
 
 k = 25
-rows = 50
+rows = 60
 cols = 50
 print(Solution().movingCount(k, rows, cols))
